@@ -1,0 +1,6 @@
+E:\Assignment_30Jul\Assignment_30Jul\bin\Debug\Assignment_30Jul.pdb
+E:\Assignment_30Jul\Assignment_30Jul\obj\Debug\Assignment_30Jul.csprojAssemblyReference.cache
+E:\Assignment_30Jul\Assignment_30Jul\obj\Debug\Assignment_30Jul.csproj.CoreCompileInputs.cache
+E:\Assignment_30Jul\Assignment_30Jul\obj\Debug\Assignment_30Jul.pdb
+E:\Assignment_30Jul\Assignment_30Jul\bin\Debug\Assignment_30Jul.exe
+E:\Assignment_30Jul\Assignment_30Jul\obj\Debug\Assignment_30Jul.exe
